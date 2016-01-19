@@ -1,0 +1,6 @@
+Chassis intrusion support: Yes
+1L, 2L or 3L system: No
+Card reader installed: Yes
+Optional USB3.0 module installed: Yes
+Optional USB2.0 module installed: Yes
+System fan installed: Yes

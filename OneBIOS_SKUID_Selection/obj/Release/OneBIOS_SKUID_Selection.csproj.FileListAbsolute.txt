@@ -1,0 +1,16 @@
+D:\ACER_FW\OneBIOS_SKUID_Selection\OneBIOS_SKUID_Selection\bin\Release\OneBIOS_SKUID_Selection.exe.config
+D:\ACER_FW\OneBIOS_SKUID_Selection\OneBIOS_SKUID_Selection\bin\Release\OneBIOS_SKUID_Selection.exe
+D:\ACER_FW\OneBIOS_SKUID_Selection\OneBIOS_SKUID_Selection\bin\Release\OneBIOS_SKUID_Selection.pdb
+D:\ACER_FW\OneBIOS_SKUID_Selection\OneBIOS_SKUID_Selection\obj\Release\MainWindow.baml
+D:\ACER_FW\OneBIOS_SKUID_Selection\OneBIOS_SKUID_Selection\obj\Release\MainWindow.g.cs
+D:\ACER_FW\OneBIOS_SKUID_Selection\OneBIOS_SKUID_Selection\obj\Release\App.g.cs
+D:\ACER_FW\OneBIOS_SKUID_Selection\OneBIOS_SKUID_Selection\obj\Release\OneBIOS_SKUID_Selection_MarkupCompile.cache
+D:\ACER_FW\OneBIOS_SKUID_Selection\OneBIOS_SKUID_Selection\obj\Release\OneBIOS_SKUID_Selection.g.resources
+D:\ACER_FW\OneBIOS_SKUID_Selection\OneBIOS_SKUID_Selection\obj\Release\OneBIOS_SKUID_Selection.Properties.Resources.resources
+D:\ACER_FW\OneBIOS_SKUID_Selection\OneBIOS_SKUID_Selection\obj\Release\OneBIOS_SKUID_Selection.csproj.GenerateResource.Cache
+D:\ACER_FW\OneBIOS_SKUID_Selection\OneBIOS_SKUID_Selection\obj\Release\OneBIOS_SKUID_Selection.exe
+D:\ACER_FW\OneBIOS_SKUID_Selection\OneBIOS_SKUID_Selection\obj\Release\OneBIOS_SKUID_Selection.pdb
+D:\ACER_FW\OneBIOS_SKUID_Selection\OneBIOS_SKUID_Selection\obj\Release\OneBIOS_SKUID_Selection.csprojResolveAssemblyReference.cache
+D:\ACER_FW\SMBIOS_SKUNo_Gen\OneBIOS_SKUID_Selection\bin\Release\OneBIOS_SKUID_Selection.exe.config
+D:\ACER_FW\SMBIOS_SKUNo_Gen\OneBIOS_SKUID_Selection\obj\Release\OneBIOS_SKUID_Selection.exe
+D:\ACER_FW\SMBIOS_SKUNo_Gen\OneBIOS_SKUID_Selection\obj\Release\OneBIOS_SKUID_Selection.pdb
